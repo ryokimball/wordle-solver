@@ -7,7 +7,7 @@ scored_letters=[]
 for i,c in enumerate(all_letters):
     scored_letters.append({'i':i,'c':c})
 
-all_words_file="5letters.txt"
+all_words_file="5_letter_words.txt"
 trying="begin"
 
 instructions = ["\nEnter a string of numbers and letters, dividing positives and negatives with a pipe '|'"]
